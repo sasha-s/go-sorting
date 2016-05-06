@@ -49,3 +49,4 @@ fmt.Println(s, idx)
 [a a1 b] [2 0 1]
 ```
 
+Also see [example](https://github.com/sasha-s/go-sorting/blob/master/example_multi_test.go).
