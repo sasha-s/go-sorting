@@ -1,5 +1,5 @@
 # go-sorting
-sorting parallel slices in golang
+sorting parallel slices in golang. [GoDoc](https://godoc.org/github.com/sasha-s/go-sorting).
 
 Lexicographical ordering:
 ```go
@@ -48,3 +48,4 @@ fmt.Println(s, idx)
 // Output:
 [a a1 b] [2 0 1]
 ```
+
