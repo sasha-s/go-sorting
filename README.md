@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/sasha-s/si-srv/sorting"
+	"github.com/sasha-s/go-sorting"
 )
 
 func main() {
