@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/ScaledInference/si-srv/sorting"
+	"github.com/sasha-s/si-srv/sorting"
 )
 
 func main() {
